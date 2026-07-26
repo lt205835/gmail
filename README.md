@@ -6,7 +6,7 @@
 
 [![适用平台](https://img.shields.io/badge/适用平台-Windows%20%7C%20macOS%20%7C%20Android%20%7C%20iOS-4285F4)](#)
 [![教程类型](https://img.shields.io/badge/教程-新手友好-34A853)](#)
-[![交流方式](https://img.shields.io/badge/QQ交流群-点击查看-FFB300)](#需要人工协助怎么办)
+[![交流方式](https://img.shields.io/badge/QQ交流群-点击查看-FFB300)](#六需要人工协助怎么办)
 
 ## 重要说明
 
